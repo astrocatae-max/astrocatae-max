@@ -16,11 +16,6 @@ I specialize in identifying high-impact vulnerabilities across diverse ecosystem
 - **Tooling**: Custom LangGraph agents, Firecrawl, Burp Suite, Ghidra.
 - **Expertise**: BOLA/IDOR, XSS, SSRF, Race Conditions, Smart Contract Logic.
 
-### 📈 Current Objectives
-- [ ] Scaling the "Empire Mode" revenue loop.
-- [ ] Hardening blockchain infrastructures.
-- [ ] Expanding the automated bounty pipeline.
-
 ---
 📫 **Contact**: [yato.empire.ops@gmail.com](mailto:yato.empire.ops@gmail.com)
 *"Competence is the only currency that matters."* 
